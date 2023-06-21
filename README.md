@@ -1,2 +1,2 @@
-# Velistore
-finalExercise
+# Veli.store
+FinalExercise
